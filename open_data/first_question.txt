@@ -1,0 +1,57 @@
+1.General framework
+
+The open data policy in France is called “Politique d’ouverture et de partage des données publiques”. France, its government and its local authorities are strongly committed to opening government data. 
+
+This essential public policy is altogether: 1) A driver of democratic vitality, 2) A strategy to support economic and social innovation, and 3) A catalyst for the modernization of public action.
+
+The cornerstone of  France’s open data policy is the 2016’s [Digital Republic Bill](1), transposed in the code of relations between the public and the administration.
+
+The Digital Republic Bill led to significant progress in terms of open data and national data policy:  
+  -The “Open Data by default” principle is the rule for every administration, leading to large opening of data of economic, social, sanitary or environmental interest.
+
+  -These Open data obligations were extended to cities and local governments of more than 3 500 inhabitants and 50 public servants.
+
+  -The number of public entities which have to open their data are extended to Industrial and Commercial Public Services and operators of Public Service Delegations.
+
+  -Licences: Open licences that can be used by the administration are listed in a [decree](2).
+
+  -The “Data Public Service” which introduces the notion of “reference data”, which are critical to the economy and society has shown its relevance. These “reference data” are provided and distributed with guaranteed “service level agreement” commitments. Data producers respect legal obligations in terms of data availability, updates and quality. The list of the 9 databases part of this public service can be found [here](3).
+
+  -Data circulation: any administration can access the data of other administrations (freely) if it is relevant to its public mission. 
+
+  -A lot of progress has been made in opening the source codes of the software produced by administrations, and for algorithms accountability and transparency. For example, Etalab developed Code.etalab.gouv.fr, a site allowing to browse over 3800 source codes published by public organizations and published an educational [guide](4) to support administrations in the implementation of their legal obligations in terms of algorithms transparency. 
+
+  -The right balance between the need to inform the public and the protection of individuals’ privacy with the last implementing decree of the Republic Digital Bill.  [The decree No. 2018-1117 of 10 December 2018](5) identifies the administrative documents that can be published without obscuring the personal data contained therein. These documents contain certain personal data that are not relating to the private life of individuals and are essential information for the public.  For example, the following data sets can now be widely distributed in their entirety: the organisation charts and directories of the administrations; the national directory of associations and the directory of companies and their establishments in their entirety; the directories of regulated professions; the results obtained by candidates in administrative examinations and competitions or leading to the award of national diplomas; the conditions for organising and carrying out sporting activities; the national directory of elected officials; the registers of guest rooms and cottages; the database of building permits.
+
+2.Specific sectoral policies
+
+On top of the general framework France open data policy is also characterized by specific sectoral legislation. Here are few recents examples : 
+
+  -The [Code de l’environnement](6) lays down the principle of providing information relating to environmental data both from public and private entities. See for example [here](7), [here](8) or [here](9) ;
+  -The [anti waste and circular economy act](10) establishes a clear legal framework regarding the publication of data relative to waste;
+  -The [decree](11) enabling decisions of judicial and administrative courts available to the public;
+  -The [legal framework](12) concerning essential data of public procurement.
+  -…
+
+3.Open Government
+France has also committed internationally, by signing the G8 Open Data Charter and the International Open Data Charter, by joining and chairing the Open Government Partnership. 
+
+Former texts also frame how France pursue open data and open source policy objectives:
+  -https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/vademecum-ouverture.pdf
+  -http://www.gouvernement.fr/action/l-ouverture-des-donnees-publique
+  -https://disic.github.io/politique-de-contribution-open-source/
+  -http://www.gouvernement.fr/partage/4492-strategie-numerique-du-gouvernement
+
+(1): https://www.legifrance.gouv.fr/eli/loi/2016/10/7/ECFI1524250L/jo/texte
+(2): https://www.legifrance.gouv.fr/eli/decret/2017/4/27/2017-638/jo/texte
+(3): https://www.data.gouv.fr/fr/reference
+(4): https://guides.etalab.gouv.fr/algorithmes/guide
+(5): https://www.legifrance.gouv.fr/eli/decret/2018/12/10/ECOJ1817657D/jo/texte
+(6): https://www.legifrance.gouv.fr/affichCode.do;jsessionid=D3B7AC7463B4727D0CD9793C3BCA22A6.tplgfr29s_2?cidTexte=LEGITEXT000006074220&dateTexte=20200710
+(7): https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000038845984&cidTexte=LEGITEXT000006074220&dateTexte=20200101
+(8): https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000006832923&dateTexte=&categorieLien=cid
+(9): https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006835040&cidTexte=LEGITEXT000006074220&dateTexte=vig
+(10): https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041553759&amp;categorieLien=id
+(11): https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042055251&categorieLien=id
+(12): https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037282994&dateTexte=&categorieLien=id
+
